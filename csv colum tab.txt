@@ -1,0 +1,8 @@
+# Goalkeeper
+Name,Nationality,Birth Year,Position,Height,Weight,Club,Matches,Defenses,Goals Conceded,Clean Sheets
+
+# Defensor
+Name,Nationality,Birth Year,Position,Height,Weight,Club,Matches,Tackles,Clearances,Clean Sheets
+
+# Attacker
+Name,Nationality,Birth Year,Position,Height,Weight,Club,Matches,Goals,Assists
