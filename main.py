@@ -80,23 +80,23 @@ attackers = cursor.fetchall()
 with open('goalkeepers.csv', 'w') as f:
     f.write('\n')
     for keepers in goalkeepers:
-        for item in keepers:
-            f.write(str(item))
-            if item != keepers[-1] : f.write(',')
+        for item in enumerate(keepers):
+            f.write(str(item[-1]))
+            if (item[0]+1) != len(keepers): f.write(',')
         f.write('\n')
 
 with open('defensors.csv', 'w') as f:
     f.write('\n')
     for defensor in defensors:
-        for item in defensor:
-            f.write(str(item))
-            if item != defensor[-1] : f.write(',')
+        for item in enumerate(defensor):
+            f.write(str(item[-1]))
+            if (item[0]+1) != len(defensor): f.write(',')
         f.write('\n')
 
 with open('attackers.csv', 'w') as f:
     f.write('\n')
     for attacker in attackers:
-        for item in attacker:
-            f.write(str(item))
-            if item != attacker[-1] : f.write(',')
+        for item in enumerate(attacker):
+            f.write(str(item[-1]))
+            if (item[0]+1) != len(attacker): f.write(',')
         f.write('\n')

@@ -1,3 +1,4 @@
+
 Giovani Bacci,Brazil,2002,RB,1.87,72.92,América Mineiro,0,0,0,0
 Andrei Grilo,Brazil,1995,RB,1.71,70.44,América Mineiro,49,214,156,35
 Andrei Dolabela,Brazil,1992,RB,1.68,76.64,América Mineiro,29,55,48,18
@@ -12,14 +13,14 @@ Sandrinho Diaz,Brazil,1993,DM,1.87,80.37,América Mineiro,39,186,64,5
 Tuco de Castro,Brazil,1994,DM,1.6,79.29,América Mineiro,24,117,99,11
 Adriano Roxo,Brazil,1997,CM,1.71,67.77,América Mineiro,29,121,67,18
 Helio Nazaré,Brazil,2002,CM,1.71,77.24,América Mineiro,56,51,208,26
-Ronaldo Nascimento,Brazil,2000,CM,1.78,78.62,América Mineiro,17,28,22
+Ronaldo Nascimento,Brazil,2000,CM,1.78,78.62,América Mineiro,17,28,2,2
 Andrei Militão,Brazil,2005,RB,1.77,63.54,Athletico Paranaense,7,4,1,5
 Juliano de Castro,Brazil,2002,RB,1.66,71.88,Athletico Paranaense,46,130,155,22
 David Kuster,Brazil,1995,RB,1.69,83.9,Athletico Paranaense,8,29,29,6
 Bernardo Bacci,Brazil,1995,CB,1.93,79.47,Athletico Paranaense,55,82,108,44
 Estavão Pereira,Brazil,2001,CB,1.97,64.9,Athletico Paranaense,23,44,62,16
 Conrado Damião,Brazil,2003,CB,1.92,73.32,Athletico Paranaense,55,137,122,15
-Fabiano Miranda,Brazil,2003,LB,1.64,70.23,Athletico Paranaense,45189,119,45
+Fabiano Miranda,Brazil,2003,LB,1.64,70.23,Athletico Paranaense,45,189,119,45
 Luis Livio,Brazil,2004,LB,1.65,76.62,Athletico Paranaense,21,13,29,6
 Deyverson Poeta,Brazil,2004,LB,1.81,72.87,Athletico Paranaense,10,31,33,4
 João Pedro Ribas,Brazil,1990,DM,1.96,76.94,Athletico Paranaense,12,24,18,3
@@ -29,9 +30,9 @@ Thiago Correia,Brazil,2006,CM,1.81,77.45,Athletico Paranaense,56,213,21,30
 Gilmar Valerio,Brazil,1992,CM,1.58,66.51,Athletico Paranaense,38,17,71,23
 Giuliano Souza,Brazil,1998,CM,1.72,72.0,Athletico Paranaense,34,122,18,2
 Paulo Cezar Oliveira,Brazil,1998,RB,1.81,76.16,Atlético Mineiro,2,0,10,1
-Nicolas Pera,Brazil,2005,RB,1.72,75.92,Atlético Mineiro,36144,68,36
+Nicolas Pera,Brazil,2005,RB,1.72,75.92,Atlético Mineiro,36,144,68,36
 Deivid Nazario,Brazil,1991,RB,1.7,62.89,Atlético Mineiro,7,31,11,1
-Bento Farid,Brazil,1992,CB,1.99,76.69,Atlético Mineiro,918,21,9
+Bento Farid,Brazil,1992,CB,1.99,76.69,Atlético Mineiro,9,18,21,9
 Thiego da Cruz,Brazil,1998,CB,1.96,67.73,Atlético Mineiro,21,34,29,7
 Luide Rainha,Brazil,2002,CB,1.95,79.56,Atlético Mineiro,13,46,53,3
 Felipe Mosteiro,Brazil,2003,LB,1.81,74.17,Atlético Mineiro,19,49,89,15
@@ -49,7 +50,7 @@ Felipe Valadares,Brazil,2006,RB,1.78,75.95,Bahia,43,33,23,29
 Renan Cruz,Brazil,1998,CB,1.98,83.35,Bahia,55,210,186,36
 Italo Arantes,Brazil,2003,CB,1.95,79.45,Bahia,30,28,23,4
 Darley Claro,Brazil,2002,CB,1.95,62.09,Bahia,42,159,17,35
-Eric Bartolo,Brazil,1997,LB,1.71,82.78,Bahia,723,23,7
+Eric Bartolo,Brazil,1997,LB,1.71,82.78,Bahia,7,23,23,7
 Julio Teixeira,Brazil,2005,LB,1.64,81.93,Bahia,33,7,85,25
 Renato Guimaraes,Brazil,1989,LB,1.81,72.27,Bahia,1,3,4,0
 Italo Barbosa,Brazil,2002,DM,1.72,78.58,Bahia,32,149,21,27
@@ -57,7 +58,7 @@ Guinho Lobo,Brazil,1995,DM,1.63,81.29,Bahia,43,169,93,30
 Luiz Nazario,Brazil,1990,DM,1.76,71.88,Bahia,39,108,71,23
 Alvaro Mendes,Brazil,1999,CM,1.56,76.23,Bahia,6,14,28,1
 Rogerinho Bartolo,Brazil,2005,CM,1.79,72.79,Bahia,35,150,42,16
-Luciano Fernandes,Brazil,1997,CM,1.82,79.1,Bahia,10,3,1
+Luciano Fernandes,Brazil,1997,CM,1.82,79.1,Bahia,1,0,3,1
 Lucas de Abreu,Brazil,1989,RB,1.88,76.15,Botafogo,38,162,171,10
 Thiego Livio,Brazil,1999,RB,1.91,79.75,Botafogo,6,3,25,1
 Icaro Camargo,Brazil,1995,RB,1.86,71.0,Botafogo,52,123,118,1
@@ -67,7 +68,7 @@ Bru Alencar,Brazil,1991,CB,1.94,85.01,Botafogo,45,116,29,8
 Rogerinho Militão,Brazil,2006,LB,1.74,69.93,Botafogo,11,49,5,2
 Eliberto Branco,Brazil,1993,LB,1.6,70.25,Botafogo,54,205,81,45
 Lorenzo de Camargo,Brazil,1991,LB,1.76,73.7,Botafogo,57,150,56,6
-Icaro Vieira,Brazil,1994,DM,1.94,65.14,Botafogo,28,99,2727
+Icaro Vieira,Brazil,1994,DM,1.94,65.14,Botafogo,28,99,27,27
 Iago Arantes,Brazil,1996,DM,1.56,72.7,Botafogo,16,25,30,13
 Marcelo Vieira,Brazil,1990,DM,1.56,78.22,Botafogo,33,42,127,20
 Iguinho Barata,Brazil,1991,CM,1.79,82.86,Botafogo,7,33,2,3
@@ -82,12 +83,12 @@ Samuca Mello,Brazil,1990,CB,1.96,72.73,Corinthians,8,40,24,2
 Arlindo Burca,Brazil,1992,LB,1.67,66.07,Corinthians,30,79,56,9
 Vina Silva,Brazil,1994,LB,1.56,68.91,Corinthians,55,35,160,47
 Maicon Inacio,Brazil,2001,LB,1.75,87.82,Corinthians,13,19,5,8
-Henrique Fiuza,Brazil,1995,DM,1.76,68.63,Corinthians,37,119,3535
+Henrique Fiuza,Brazil,1995,DM,1.76,68.63,Corinthians,37,119,35,35
 Gilvan Beltrão,Brazil,1991,DM,1.8,73.84,Corinthians,51,92,239,45
 Julio Betti,Brazil,1997,DM,1.64,79.16,Corinthians,18,80,8,16
 Daniel Costa,Brazil,2006,CM,1.79,82.95,Corinthians,44,113,124,4
 Nuno Burca,Brazil,1998,CM,1.9,71.63,Corinthians,42,118,33,37
-Yohan Lila,Brazil,1999,CM,1.57,86.83,Corinthians,33,20148,20
+Yohan Lila,Brazil,1999,CM,1.57,86.83,Corinthians,33,20,148,20
 Ederson da Costa,Brazil,2005,RB,1.75,65.78,Coritiba,52,6,144,26
 Aracel Barreto,Brazil,1990,RB,1.84,72.73,Coritiba,56,153,124,17
 Yohan Padrão,Brazil,2002,RB,1.88,83.84,Coritiba,16,29,50,10
@@ -107,7 +108,7 @@ Waguininho Lopes,Brazil,2006,RB,1.66,64.76,Cruzeiro,45,137,173,25
 Mariano Neves,Brazil,2006,RB,1.62,77.12,Cruzeiro,34,100,57,6
 Waguininho Gonçalves,Brazil,2002,RB,1.76,66.8,Cruzeiro,22,68,107,14
 Paulo Cezar Braga,Brazil,2004,CB,1.93,81.23,Cruzeiro,8,2,25,1
-Lucian Barbosa,Brazil,2005,CB,1.99,83.53,Cruzeiro,153,27,15
+Lucian Barbosa,Brazil,2005,CB,1.99,83.53,Cruzeiro,15,3,27,15
 Jamal Lemos,Brazil,1999,CB,1.94,82.38,Cruzeiro,46,87,210,26
 Nataniel Santos,Brazil,2003,LB,1.83,70.63,Cruzeiro,53,160,17,42
 Caue Melo,Brazil,1991,LB,1.71,74.04,Cruzeiro,12,58,46,4
@@ -115,7 +116,7 @@ Augusto Pacheco,Brazil,2003,LB,1.64,67.73,Cruzeiro,48,81,195,21
 Yago Nazario,Brazil,2001,DM,1.76,69.62,Cruzeiro,48,223,7,37
 Juliano Matheus,Brazil,1996,DM,1.82,78.02,Cruzeiro,26,34,47,4
 Joao Pedro Barcelos,Brazil,1992,DM,1.66,73.56,Cruzeiro,27,60,125,26
-Eurico Poeta,Brazil,2003,CM,1.79,75.79,Cruzeiro,230,80,23
+Eurico Poeta,Brazil,2003,CM,1.79,75.79,Cruzeiro,23,0,80,23
 Manuel Cazares,Brazil,1990,CM,1.56,76.11,Cruzeiro,18,85,88,10
 Savarino Pereira,Brazil,2005,CM,1.76,86.11,Cruzeiro,39,34,80,37
 Ademar Inacio,Brazil,1996,RB,1.66,82.59,Cuiabá,47,154,202,33
@@ -131,7 +132,7 @@ Nino Aguiar,Brazil,1998,DM,1.77,75.04,Cuiabá,23,2,18,7
 Oliveira Vieira,Brazil,2005,DM,1.63,78.03,Cuiabá,37,127,55,1
 Aroldo Oliveira,Brazil,2005,DM,1.74,88.3,Cuiabá,53,117,56,32
 Almir Carvalho,Brazil,1994,CM,1.76,68.31,Cuiabá,17,44,64,14
-Juliano Nascimento,Brazil,2006,CM,1.76,70.31,Cuiabá,713,18,7
+Juliano Nascimento,Brazil,2006,CM,1.76,70.31,Cuiabá,7,13,18,7
 Thiego Livio,Brazil,1997,CM,1.79,76.52,Cuiabá,0,0,0,0
 Vina Roxo,Brazil,1994,RB,1.54,74.67,Flamengo,39,34,79,27
 Benedito Lemos,Brazil,2000,RB,1.9,75.16,Flamengo,17,72,16,14
@@ -140,12 +141,12 @@ Ivan Veron,Brazil,2002,CB,1.96,81.52,Flamengo,50,149,223,31
 Savio Frazan,Brazil,1996,CB,1.92,71.48,Flamengo,2,0,5,1
 Juares Alencar,Brazil,1990,CB,1.95,75.61,Flamengo,13,33,51,11
 Thiago Livio,Brazil,1997,LB,1.86,80.19,Flamengo,43,130,150,31
-Eliberto Correia,Brazil,2006,LB,1.72,78.3,Flamengo,228,2
+Eliberto Correia,Brazil,2006,LB,1.72,78.3,Flamengo,2,2,8,2
 Ronaldinho Becker,Brazil,1998,LB,1.88,71.05,Flamengo,25,33,81,24
 Antônio Guerri,Brazil,1998,DM,1.8,72.86,Flamengo,42,23,62,28
 Benedito Buarque,Brazil,1999,DM,1.68,77.56,Flamengo,49,161,55,32
 Luan Muniz,Brazil,1991,DM,1.99,70.27,Flamengo,7,5,19,2
-Natan Correia,Brazil,2003,CM,1.71,83.37,Flamengo,28,34,22
+Natan Correia,Brazil,2003,CM,1.71,83.37,Flamengo,28,34,2,2
 Leandrão Fernandes,Brazil,1992,CM,1.78,71.47,Flamengo,17,69,4,10
 Daniel Costeira,Brazil,1997,CM,1.74,70.6,Flamengo,19,21,87,13
 Marlon Veron,Brazil,2006,RB,1.86,78.99,Fluminense,46,149,102,25
@@ -171,11 +172,11 @@ Ian Branco,Brazil,2001,CB,1.92,81.8,Fortaleza,30,33,10,15
 Silvio Bartolo,Brazil,1992,CB,1.93,79.77,Fortaleza,23,45,50,3
 Estafan Moura,Brazil,1997,LB,1.74,87.56,Fortaleza,38,159,1,35
 Romilton Firmino,Brazil,1996,LB,1.63,78.33,Fortaleza,1,4,3,0
-Italo Nunes,Brazil,2001,LB,1.71,88.64,Fortaleza,6,8,22
-Marquinho Branco,Brazil,1991,DM,1.61,73.46,Fortaleza,1,05,0
+Italo Nunes,Brazil,2001,LB,1.71,88.64,Fortaleza,6,8,2,2
+Marquinho Branco,Brazil,1991,DM,1.61,73.46,Fortaleza,1,0,5,0
 Yuri Inacio,Brazil,2006,DM,1.67,62.42,Fortaleza,24,23,49,21
 Nelson Livio,Brazil,1996,DM,1.84,79.6,Fortaleza,32,51,144,24
-Marcio Muniz,Brazil,1998,CM,1.7,76.82,Fortaleza,54,12240,12
+Marcio Muniz,Brazil,1998,CM,1.7,76.82,Fortaleza,54,12,240,12
 Inacio Mello,Brazil,1998,CM,1.72,82.67,Fortaleza,5,25,7,0
 Miguel Mosteiro,Brazil,1990,CM,1.73,73.2,Fortaleza,22,18,97,20
 Carlos Victor Vivaz,Brazil,1996,RB,1.85,71.42,Goiás,15,57,10,7
@@ -197,7 +198,7 @@ Tita Veloso,Brazil,1996,RB,1.6,67.81,Grêmio,4,8,7,3
 Gabriel Silveira,Brazil,1993,RB,1.75,77.04,Grêmio,26,70,123,2
 Yuri Branco,Brazil,2000,RB,1.74,74.67,Grêmio,47,20,203,6
 Filipi Assad,Brazil,1990,CB,1.94,75.51,Grêmio,50,71,172,13
-Luis Araujo,Brazil,2001,CB,1.95,70.92,Grêmio,3981,26,39
+Luis Araujo,Brazil,2001,CB,1.95,70.92,Grêmio,39,81,26,39
 Raizinho Veron,Brazil,2003,CB,1.99,69.55,Grêmio,5,2,11,0
 Davi Barcelar,Brazil,2004,LB,1.92,82.98,Grêmio,56,208,232,54
 Lorenzo Bacci,Brazil,2006,LB,1.74,63.58,Grêmio,52,92,37,35
@@ -219,15 +220,15 @@ Carlos Alberto Vivaz,Brazil,1996,LB,1.74,75.66,Internacional,47,98,217,3
 Wanderson Roxo,Brazil,2005,LB,1.89,71.29,Internacional,23,62,1,8
 Calebe de Camargo,Brazil,1995,DM,1.72,75.25,Internacional,49,91,110,2
 Juliano Alvarenga,Brazil,2001,DM,1.61,71.09,Internacional,59,130,12,50
-Andrei Frazan,Brazil,1997,DM,1.78,72.29,Internacional,2062,33,20
-Deivid Neres,Brazil,1991,CM,1.85,81.61,Internacional,49,16,4
+Andrei Frazan,Brazil,1997,DM,1.78,72.29,Internacional,20,62,33,20
+Deivid Neres,Brazil,1991,CM,1.85,81.61,Internacional,4,9,16,4
 Alvaro Borges,Brazil,1991,CM,1.9,72.26,Internacional,29,103,87,13
 Giuliano Teles,Brazil,1995,CM,1.85,82.22,Internacional,28,48,8,7
 Lucian Teixeira,Brazil,2005,RB,1.58,79.74,Palmeiras,38,157,92,2
 David Rosa,Brazil,1995,RB,1.63,63.63,Palmeiras,24,90,52,2
 Juca Ribas,Brazil,2002,RB,1.66,79.08,Palmeiras,42,150,65,25
 Wellington Dos Anjos,Brazil,1991,CB,1.93,67.48,Palmeiras,8,3,38,7
-Fefito Souza,Brazil,1997,CB,1.93,77.01,Palmeiras,45,114,3737
+Fefito Souza,Brazil,1997,CB,1.93,77.01,Palmeiras,45,114,37,37
 Wellington Laranja,Brazil,1995,CB,1.96,80.62,Palmeiras,16,39,43,5
 Victor Bartolo,Brazil,1998,LB,1.79,77.73,Palmeiras,5,23,7,2
 Enzo Arouca,Brazil,2001,LB,1.89,79.42,Palmeiras,36,42,148,12
@@ -243,18 +244,18 @@ Nivaldo Padrão,Brazil,1994,RB,1.74,75.01,Red Bull Bragantino,56,239,212,25
 Lorenzo de Paula,Brazil,1991,RB,1.77,78.41,Red Bull Bragantino,4,18,0,2
 Vanderlei Fagundes,Brazil,2004,CB,1.98,74.18,Red Bull Bragantino,30,50,49,26
 Estafan Reis,Brazil,1999,CB,1.93,81.8,Red Bull Bragantino,48,168,45,47
-Paulo Cezar Arouca,Brazil,1991,CB,1.94,66.8,Red Bull Bragantino,511,16,5
+Paulo Cezar Arouca,Brazil,1991,CB,1.94,66.8,Red Bull Bragantino,5,11,16,5
 Luiz Gabriel dos Santos,Brazil,1999,LB,1.86,67.51,Red Bull Bragantino,9,22,21,0
 Rodrigo Nogueira,Brazil,1999,LB,1.74,73.0,Red Bull Bragantino,57,241,262,23
 Gabriel Costa,Brazil,1997,LB,1.63,67.25,Red Bull Bragantino,31,111,36,1
 Felipi Natura,Brazil,1997,DM,1.84,74.04,Red Bull Bragantino,56,192,178,0
 Nuno Correa,Brazil,1989,DM,1.86,75.71,Red Bull Bragantino,47,19,102,9
-Joao Lucas Bacci,Brazil,1998,DM,1.76,74.46,Red Bull Bragantino,54,232,4747
+Joao Lucas Bacci,Brazil,1998,DM,1.76,74.46,Red Bull Bragantino,54,232,47,47
 Dinei Pera,Brazil,2006,CM,1.59,79.59,Red Bull Bragantino,8,34,3,4
 David Azevedo,Brazil,1993,CM,1.75,75.17,Red Bull Bragantino,52,148,98,18
 Mario Padrão,Brazil,1991,CM,1.76,74.83,Red Bull Bragantino,38,142,58,34
-Andrey Reis,Brazil,1991,RB,1.83,69.2,Santos,55229,91,55
-Rafael Pera,Brazil,1996,RB,1.73,79.86,Santos,1527,20,15
+Andrey Reis,Brazil,1991,RB,1.83,69.2,Santos,55,229,91,55
+Rafael Pera,Brazil,1996,RB,1.73,79.86,Santos,15,27,20,15
 Thiego Veles,Brazil,1990,RB,1.89,78.68,Santos,5,22,2,1
 Adalto Varanda,Brazil,1999,CB,1.92,77.11,Santos,38,128,114,36
 Sandro Roussef,Brazil,1989,CB,1.94,69.89,Santos,15,0,13,12
@@ -279,7 +280,7 @@ Theo Nascimento,Brazil,1998,LB,1.83,69.39,São Paulo,36,134,101,27
 Heitor Pamonha,Brazil,1997,LB,1.93,67.33,São Paulo,24,5,102,6
 Marcio Silva,Brazil,1989,DM,1.88,83.14,São Paulo,11,48,25,7
 Guto Damião,Brazil,2004,DM,1.83,81.7,São Paulo,27,10,72,2
-Helio Miranda,Brazil,2004,DM,1.56,73.53,São Paulo,49117,117,49
+Helio Miranda,Brazil,2004,DM,1.56,73.53,São Paulo,49,117,117,49
 Neilton Lima,Brazil,1995,CM,1.76,76.95,São Paulo,34,49,5,33
 Dinho Lira,Brazil,2001,CM,1.79,78.49,São Paulo,13,53,25,1
 Watson Vasques,Brazil,1999,CM,1.8,84.99,São Paulo,50,136,65,33
@@ -306,7 +307,7 @@ Gilberto Beltrão,Brazil,1997,CB,1.92,67.61,América Mineiro,48,238,186,42
 Adriano Veloso,Brazil,1997,CB,1.97,81.38,América Mineiro,43,73,86,24
 Alvaro Mello,Brazil,1991,LB,1.76,87.85,América Mineiro,12,4,4,3
 Andrey Vieira,Brazil,1990,LB,1.71,72.98,América Mineiro,36,52,135,3
-Alex Alboquerque,Brazil,1995,LB,1.74,71.18,América Mineiro,26,22
+Alex Alboquerque,Brazil,1995,LB,1.74,71.18,América Mineiro,2,6,2,2
 Gabi Silvestre,Brazil,2005,DM,1.82,81.4,América Mineiro,40,106,143,11
 Luiz Matheus Lysandro,Brazil,2004,DM,1.72,79.79,América Mineiro,56,9,24,15
 Gabu Fiuza,Brazil,1995,DM,1.86,85.09,América Mineiro,24,116,73,19
@@ -332,7 +333,7 @@ Matias Arouca,Brazil,1997,RB,1.7,70.08,Atlético Mineiro,60,170,193,26
 Marcel Fuzão,Brazil,2005,RB,1.77,74.22,Atlético Mineiro,36,12,5,22
 João Gabriel Azevedo,Brazil,2004,RB,1.74,72.62,Atlético Mineiro,19,62,63,14
 Bill Magno,Brazil,2005,CB,1.94,78.61,Atlético Mineiro,14,22,35,12
-Nelson Dolabela,Brazil,2006,CB,1.94,76.55,Atlético Mineiro,12,2,1
+Nelson Dolabela,Brazil,2006,CB,1.94,76.55,Atlético Mineiro,1,2,2,1
 Luiz Manoel Veles,Brazil,2003,CB,1.93,71.23,Atlético Mineiro,33,13,33,0
 Thiago da Silva,Brazil,1996,LB,1.75,75.48,Atlético Mineiro,56,218,267,6
 Drauzio Carmona,Brazil,2003,LB,1.9,70.82,Atlético Mineiro,54,180,234,31
@@ -345,7 +346,7 @@ Leandrão Alcantara,Brazil,1991,CM,1.77,72.0,Atlético Mineiro,29,140,33,18
 Vina Barcelar,Brazil,2005,CM,1.71,71.9,Atlético Mineiro,44,217,167,41
 Lito dos Santos,Brazil,2006,RB,1.64,66.11,Bahia,21,43,58,6
 Iguinho Veles,Brazil,1989,RB,1.82,73.09,Bahia,5,24,10,3
-Jander Mico,Brazil,1996,RB,1.71,83.8,Bahia,69,28,6
+Jander Mico,Brazil,1996,RB,1.71,83.8,Bahia,6,9,28,6
 Leandrinho Lisandro,Brazil,2000,CB,1.98,80.76,Bahia,10,33,2,5
 Nuno Alencar,Brazil,2001,CB,1.98,65.77,Bahia,36,108,113,33
 Eric Brito,Brazil,2004,CB,1.97,75.96,Bahia,26,14,48,4
@@ -386,12 +387,12 @@ Fabio Monteiro,Brazil,1996,DM,1.9,71.14,Corinthians,43,215,0,29
 Manuel Militão,Brazil,2001,DM,1.87,81.45,Corinthians,24,15,117,17
 Wanderson Costeira,Brazil,2003,DM,1.9,87.35,Corinthians,27,120,90,18
 Igor de Camargo,Brazil,2003,CM,1.83,74.56,Corinthians,14,70,51,10
-Julio Pera,Brazil,1994,CM,1.98,64.19,Corinthians,14,5,1
+Julio Pera,Brazil,1994,CM,1.98,64.19,Corinthians,1,4,5,1
 Joao Lucas Crespo,Brazil,2000,CM,1.65,73.34,Corinthians,5,11,18,2
-Klever Oliveira,Brazil,1989,RB,1.8,80.72,Coritiba,32,4,55
+Klever Oliveira,Brazil,1989,RB,1.8,80.72,Coritiba,32,4,5,5
 Pierre Poeta,Brazil,1993,RB,1.86,67.95,Coritiba,60,262,89,14
 Julio Aguila,Brazil,1994,RB,1.84,79.19,Coritiba,40,127,57,9
-Estavão Barcelo,Brazil,2000,CB,1.95,75.88,Coritiba,115,1
+Estavão Barcelo,Brazil,2000,CB,1.95,75.88,Coritiba,1,1,5,1
 Mario Grilo,Brazil,1990,CB,1.91,62.61,Coritiba,36,180,84,3
 Yuri Dias,Brazil,1994,CB,1.98,75.12,Coritiba,6,30,26,1
 Dinho Militão,Brazil,1990,LB,1.79,69.27,Coritiba,4,12,9,2
@@ -406,7 +407,7 @@ Oliveira Valão,Brazil,1991,CM,1.7,80.22,Coritiba,0,0,0,0
 Ederson Betti,Brazil,1991,RB,1.77,80.3,Cruzeiro,6,19,23,4
 Ian Calegari,Brazil,1990,RB,1.65,77.0,Cruzeiro,47,109,7,29
 Adalto Rios,Brazil,1992,RB,1.75,72.0,Cruzeiro,15,39,11,12
-Nataniel Ribeiro,Brazil,2005,CB,1.94,77.37,Cruzeiro,28105,51,28
+Nataniel Ribeiro,Brazil,2005,CB,1.94,77.37,Cruzeiro,28,105,51,28
 Jamal Buarque,Brazil,1989,CB,1.93,79.66,Cruzeiro,24,67,26,21
 Bernardo Araujo,Brazil,1997,CB,1.97,80.31,Cruzeiro,43,15,126,40
 Antônio Celso,Brazil,2003,LB,1.89,83.07,Cruzeiro,23,48,66,4
@@ -422,7 +423,7 @@ Marcel Bassols,Brazil,1998,RB,1.85,79.44,Cuiabá,37,7,167,21
 Lucca Cazares,Brazil,1999,RB,1.86,75.4,Cuiabá,34,27,105,0
 Estavão Mota,Brazil,1990,RB,1.86,80.78,Cuiabá,10,0,10,3
 Savarino Costa,Brazil,2003,CB,1.96,64.05,Cuiabá,38,22,75,26
-Gilmar Golvea,Brazil,1990,CB,1.96,71.77,Cuiabá,3297,144,32
+Gilmar Golvea,Brazil,1990,CB,1.96,71.77,Cuiabá,32,97,144,32
 Gilmar Frazan,Brazil,2004,CB,1.95,66.11,Cuiabá,51,6,251,27
 Miguel Menezes,Brazil,1996,LB,1.73,79.85,Cuiabá,34,100,161,19
 Eric Bacci,Brazil,1998,LB,1.72,71.01,Cuiabá,30,89,16,25
@@ -445,7 +446,7 @@ Ricardo Alvarenga,Brazil,2000,LB,1.82,83.09,Flamengo,45,17,78,0
 Luide Barreto,Brazil,2001,DM,1.75,88.59,Flamengo,14,23,2,3
 Bento Assad,Brazil,2005,DM,1.53,80.5,Flamengo,21,48,85,13
 Nivaldo de Castro,Brazil,1996,DM,1.88,88.71,Flamengo,49,98,136,14
-Heitor Veron,Brazil,1992,CM,1.77,79.64,Flamengo,2549,67,25
+Heitor Veron,Brazil,1992,CM,1.77,79.64,Flamengo,25,49,67,25
 Gabu Celso,Brazil,2000,CM,1.55,74.25,Flamengo,5,19,19,3
 Saulo Neto,Brazil,2005,CM,1.75,76.79,Flamengo,44,86,188,38
 Iago Dias,Brazil,1991,RB,1.94,83.36,Fluminense,4,13,6,0
@@ -459,7 +460,7 @@ Ian Assad,Brazil,2005,LB,1.9,65.29,Fluminense,3,8,5,1
 Caue Celso,Brazil,2006,LB,1.85,64.46,Fluminense,59,13,103,49
 Arlindo Veloso,Brazil,2005,DM,1.72,68.42,Fluminense,25,24,39,6
 Rodrigo Araujo,Brazil,1997,DM,1.69,76.68,Fluminense,20,69,47,16
-Flavio Neves,Brazil,1989,DM,1.76,70.72,Fluminense,517,4,5
+Flavio Neves,Brazil,1989,DM,1.76,70.72,Fluminense,5,17,4,5
 Leonardo Silva,Brazil,1997,CM,1.83,79.8,Fluminense,10,24,11,2
 Philipe Alcantara,Brazil,1994,CM,1.72,68.4,Fluminense,48,190,81,22
 Gilberto Costeira,Brazil,1990,CM,1.67,78.32,Fluminense,12,50,17,6
@@ -470,7 +471,7 @@ Douglas Varanda,Brazil,1992,CB,1.94,79.99,Fortaleza,37,55,141,30
 Marquinho Alboquerque,Brazil,2006,CB,1.92,74.79,Fortaleza,23,48,74,6
 Yohan Damião,Brazil,1989,CB,1.98,83.27,Fortaleza,22,63,17,12
 André Kuster,Brazil,2000,LB,1.85,73.34,Fortaleza,43,164,185,42
-Oliveira Lopes,Brazil,1995,LB,1.71,69.53,Fortaleza,29135,90,29
+Oliveira Lopes,Brazil,1995,LB,1.71,69.53,Fortaleza,29,135,90,29
 Luiz Manoel da Costa,Brazil,2002,LB,1.79,69.73,Fortaleza,41,21,19,9
 Jamal Carmona,Brazil,1995,DM,1.72,85.52,Fortaleza,42,46,142,6
 Carlos Victor Betin,Brazil,2004,DM,1.85,83.42,Fortaleza,31,28,147,22
@@ -482,7 +483,7 @@ Almir Aquila,Brazil,2003,RB,1.79,80.46,Goiás,16,62,55,1
 Estafan Aguila,Brazil,2000,RB,1.62,69.98,Goiás,52,119,206,38
 Conrado Laranjeira,Brazil,2004,RB,1.63,78.15,Goiás,46,128,143,28
 Daniel Aguiar,Brazil,2001,CB,1.92,78.74,Goiás,20,49,44,6
-Pericles Lima,Brazil,2000,CB,1.96,78.56,Goiás,511,10,5
+Pericles Lima,Brazil,2000,CB,1.96,78.56,Goiás,5,11,10,5
 Aderson Lisandro,Brazil,1990,CB,1.94,71.43,Goiás,42,186,185,26
 Arlindo Militão,Brazil,2002,LB,1.8,66.19,Goiás,1,3,1,0
 Alessandro Laranjeira,Brazil,2003,LB,1.75,75.61,Goiás,54,15,102,11
@@ -497,7 +498,7 @@ Marcio Padrão,Brazil,2002,RB,1.65,70.25,Grêmio,4,6,3,1
 Igor Correa,Brazil,1995,RB,1.86,77.05,Grêmio,7,32,5,1
 Dinei Mosquito,Brazil,2002,RB,1.79,78.06,Grêmio,57,186,188,23
 Vanderlei de Paula,Brazil,2004,CB,1.93,74.72,Grêmio,37,164,181,2
-Diogo Nunes,Brazil,2005,CB,1.93,84.92,Grêmio,13,4,1
+Diogo Nunes,Brazil,2005,CB,1.93,84.92,Grêmio,1,3,4,1
 Alessandro Kuster,Brazil,2006,CB,1.94,80.24,Grêmio,46,190,3,1
 Klever Moura,Brazil,2000,LB,1.77,74.6,Grêmio,42,123,69,14
 Victor Lima,Brazil,2004,LB,1.9,68.66,Grêmio,28,58,50,2
@@ -510,7 +511,7 @@ Mario Laranja,Brazil,1999,CM,1.64,78.18,Grêmio,43,190,24,41
 Yago Golvea,Brazil,2001,CM,1.63,83.11,Grêmio,3,14,2,0
 Angelo Santos,Brazil,2004,RB,1.53,83.81,Internacional,41,102,106,40
 Luiz Frazan,Brazil,1998,RB,1.62,70.97,Internacional,13,39,23,12
-Felipe Mota,Brazil,2003,RB,1.88,74.99,Internacional,2,0,11
+Felipe Mota,Brazil,2003,RB,1.88,74.99,Internacional,2,0,1,1
 Davi Golvea,Brazil,1994,CB,1.96,75.1,Internacional,19,36,85,4
 Vinicius Limeira,Brazil,1990,CB,1.94,62.93,Internacional,36,124,5,29
 Wendel Dolabela,Brazil,1996,CB,1.93,66.31,Internacional,40,116,195,10
@@ -555,7 +556,7 @@ Oliveira Borges,Brazil,1997,CM,1.72,72.43,Red Bull Bragantino,19,68,80,1
 Caco Motta,Brazil,2006,CM,1.94,74.61,Red Bull Bragantino,40,29,148,6
 Vanderlei Diniz,Brazil,1990,RB,1.84,82.84,Santos,13,47,37,6
 Felix Gonçalves,Brazil,1990,RB,1.91,72.91,Santos,22,107,1,6
-Danilo Natura,Brazil,2004,RB,1.75,60.8,Santos,7,133,1
+Danilo Natura,Brazil,2004,RB,1.75,60.8,Santos,7,1,33,1
 Bru Leitão,Brazil,1995,CB,1.95,73.39,Santos,0,0,0,0
 Muriel Braga,Brazil,1999,CB,1.96,71.57,Santos,52,260,199,17
 Duda Roxo,Brazil,1996,CB,1.92,76.52,Santos,9,10,43,0
@@ -578,13 +579,13 @@ Aderson Cella,Brazil,1994,LB,1.72,76.69,São Paulo,4,2,10,1
 Luiz Matheus Correa,Brazil,2002,LB,1.78,77.21,São Paulo,0,0,0,0
 Lito D'avila,Brazil,1992,LB,1.71,69.37,São Paulo,30,108,111,19
 Gilberto Brandão,Brazil,1996,DM,1.64,75.37,São Paulo,30,58,35,19
-Caco Azevedo,Brazil,2005,DM,1.64,69.43,São Paulo,3465,84,34
-Catatau Costeira,Brazil,1996,DM,1.61,80.69,São Paulo,8,228,2
+Caco Azevedo,Brazil,2005,DM,1.64,69.43,São Paulo,34,65,84,34
+Catatau Costeira,Brazil,1996,DM,1.61,80.69,São Paulo,8,2,28,2
 Andrei Braga,Brazil,1999,CM,1.65,73.53,São Paulo,60,247,280,10
 Catatau Damião,Brazil,1989,CM,1.65,80.18,São Paulo,36,88,71,1
-Eurico Natura,Brazil,1990,CM,1.66,65.09,São Paulo,623,16,6
+Eurico Natura,Brazil,1990,CM,1.66,65.09,São Paulo,6,23,16,6
 Antonio Crespo,Brazil,1990,RB,1.68,78.09,Vasco da Gama,48,190,20,9
-Bento Bassols,Brazil,2004,RB,1.78,80.86,Vasco da Gama,2498,106,24
+Bento Bassols,Brazil,2004,RB,1.78,80.86,Vasco da Gama,24,98,106,24
 Nathan Vieira,Brazil,1998,RB,1.66,77.1,Vasco da Gama,31,118,111,10
 Paulo Cezar Limeira,Brazil,1990,CB,1.96,70.68,Vasco da Gama,12,41,46,0
 Tião Roussef,Brazil,1996,CB,1.92,63.82,Vasco da Gama,4,18,7,1
@@ -592,7 +593,7 @@ Humberto Silvestre,Brazil,1989,CB,1.96,68.69,Vasco da Gama,54,17,195,14
 Mariano Ribas,Brazil,2005,LB,1.86,72.17,Vasco da Gama,10,5,4,9
 Gilmar Lemos,Brazil,1999,LB,1.83,68.62,Vasco da Gama,13,18,1,9
 Guilherme Santos,Brazil,1989,LB,1.81,84.47,Vasco da Gama,2,10,8,0
-Almir Branco,Brazil,1990,DM,1.68,87.05,Vasco da Gama,28,6,2
+Almir Branco,Brazil,1990,DM,1.68,87.05,Vasco da Gama,2,8,6,2
 Sandrinho Reis,Brazil,2006,DM,1.66,70.6,Vasco da Gama,24,95,4,16
 Bru Paes,Brazil,1998,DM,1.75,75.37,Vasco da Gama,34,78,164,23
 Leandro Cunha,Brazil,2002,CM,1.92,63.52,Vasco da Gama,35,19,96,34
@@ -621,7 +622,7 @@ Tomás Navarro,Uruguay,2001,CB,1.95,74.53,Arsenal,44,148,113,18
 Omar Jez,Argentina,2000,CB,1.94,71.51,Arsenal,22,77,73,1
 Juan Floressanchez,Colombia,1989,LB,1.66,75.08,Arsenal,6,0,27,2
 Rubén Trevino,Argentina,2003,LB,1.8,70.14,Arsenal,0,0,0,0
-Aldo Scott,Argentina,1997,LB,1.51,65.7,Arsenal,29,8,2
+Aldo Scott,Argentina,1997,LB,1.51,65.7,Arsenal,2,9,8,2
 Juan Nehez,Argentina,1990,DM,1.64,82.96,Arsenal,6,0,2,4
 Nehuén Acevez,Argentina,2004,DM,1.8,78.61,Arsenal,25,39,108,17
 Carmelo Ogaldez,Colombia,1993,DM,1.62,84.95,Arsenal,47,182,79,0
@@ -640,12 +641,12 @@ Emiliano Martez,Argentina,2004,LB,1.7,73.63,Atlético Tucumán,41,95,33,39
 Joan Donez,Colombia,1990,DM,1.77,65.33,Atlético Tucumán,52,152,176,40
 Nehuén Betancourt,Argentina,2006,DM,1.64,81.07,Atlético Tucumán,25,6,125,15
 Eugenio Penaloza,Uruguay,2006,DM,1.65,76.6,Atlético Tucumán,27,70,101,10
-Estefano Jasso,Colombia,1991,CM,1.73,77.34,Atlético Tucumán,32,14,3
+Estefano Jasso,Colombia,1991,CM,1.73,77.34,Atlético Tucumán,3,2,14,3
 Enrique Cruzperez,Uruguay,1994,CM,1.66,75.97,Atlético Tucumán,12,22,31,5
 Lautaro Mandez,Argentina,1994,CM,1.71,75.06,Atlético Tucumán,32,53,58,10
 Carmelo Espino,Colombia,1997,RB,1.58,76.01,Banfield,30,123,10,12
-Juan Badillo,Uruguay,1989,RB,1.67,80.48,Banfield,626,2,6
-Rodrigo Chauez,Argentina,1995,RB,1.87,72.61,Banfield,49128,155,49
+Juan Badillo,Uruguay,1989,RB,1.67,80.48,Banfield,6,26,2,6
+Rodrigo Chauez,Argentina,1995,RB,1.87,72.61,Banfield,49,128,155,49
 Germán Cardenas,Colombia,1996,CB,1.94,73.0,Banfield,13,50,58,12
 Gustavo Sosa,Uruguay,1999,CB,1.94,73.75,Banfield,39,19,97,16
 Jorge Baltierrez,Colombia,2001,CB,1.95,69.66,Banfield,24,39,71,9
@@ -657,7 +658,7 @@ Maxi Corona,Argentina,1993,DM,1.7,79.71,Banfield,25,25,109,16
 Juan Prieto,Uruguay,1992,DM,1.83,83.44,Banfield,21,49,87,12
 Leandro Rojas,Uruguay,1992,CM,1.79,62.44,Banfield,34,120,147,15
 Hermán Ranirez,Uruguay,1995,CM,1.68,73.42,Banfield,56,140,159,37
-Joaquin Hinojosa,Argentina,1992,CM,1.9,63.47,Banfield,30,4,3
+Joaquin Hinojosa,Argentina,1992,CM,1.9,63.47,Banfield,3,0,4,3
 Stiven Resendez,Uruguay,1998,RB,1.76,75.52,Barracas Central,34,51,132,14
 Germán Vega,Argentina,2002,RB,1.69,70.88,Barracas Central,32,52,97,11
 Brayan Olivo,Uruguay,1991,RB,1.85,79.91,Barracas Central,19,78,44,17
@@ -673,7 +674,7 @@ Juan Daez,Argentina,1998,DM,1.76,69.23,Barracas Central,19,46,92,14
 Jorge Chacon,Uruguay,2001,CM,1.62,67.41,Barracas Central,33,162,96,28
 Juan Sifuentes,Colombia,1998,CM,1.79,64.83,Barracas Central,41,146,132,29
 Santiago Loera,Argentina,2003,CM,1.92,75.23,Barracas Central,34,19,164,9
-Alberto Belmontez,Colombia,2001,RB,1.81,68.89,Belgrano,3851,173,38
+Alberto Belmontez,Colombia,2001,RB,1.81,68.89,Belgrano,38,51,173,38
 Hernán Rosado,Colombia,2006,RB,1.61,81.33,Belgrano,26,129,71,2
 Franco Berrios,Uruguay,2004,RB,1.66,76.12,Belgrano,15,55,33,4
 Alejandro Richardson,Uruguay,2001,CB,1.93,66.44,Belgrano,29,33,97,27
@@ -708,12 +709,12 @@ Franco Paredes,Argentina,2002,RB,1.69,74.5,Central Córdoba (SdE),43,154,199,33
 Eugenio Garcia,Colombia,2004,RB,1.79,75.2,Central Córdoba (SdE),38,79,126,11
 Leandro Almonte,Argentina,2004,CB,1.97,73.36,Central Córdoba (SdE),3,10,10,1
 Diego Banez,Colombia,2002,CB,1.95,73.33,Central Córdoba (SdE),31,38,37,25
-Héctor Cruzrodriguez,Uruguay,2001,CB,1.94,86.34,Central Córdoba (SdE),15,0,1
+Héctor Cruzrodriguez,Uruguay,2001,CB,1.94,86.34,Central Córdoba (SdE),1,5,0,1
 Rodrigo Ortizhernandez,Uruguay,1994,LB,1.8,69.89,Central Córdoba (SdE),54,131,166,47
 Germán Tanchez,Colombia,1995,LB,1.83,88.22,Central Córdoba (SdE),51,17,237,39
 Juan Russell,Uruguay,2004,LB,1.67,80.28,Central Córdoba (SdE),41,178,106,38
 Jarrinson Alonso,Colombia,1999,DM,1.8,89.57,Central Córdoba (SdE),51,47,203,28
-Maxi Cortes,Uruguay,1997,DM,1.77,70.82,Central Córdoba (SdE),625,11,6
+Maxi Cortes,Uruguay,1997,DM,1.77,70.82,Central Córdoba (SdE),6,25,11,6
 Enzo Parada,Uruguay,1995,DM,1.89,73.55,Central Córdoba (SdE),8,20,33,6
 Maxi Onsurez,Colombia,2006,CM,1.76,69.59,Central Córdoba (SdE),39,181,166,37
 Fernando Gomezgomez,Uruguay,1995,CM,1.75,76.38,Central Córdoba (SdE),43,187,193,19
@@ -735,7 +736,7 @@ Rodrigo Acuna,Argentina,2000,CM,1.67,73.02,Colón,27,67,1,24
 Rodrigo Encarnacion,Uruguay,2002,CM,1.72,85.79,Colón,14,65,27,11
 Guillermo Howard,Colombia,1996,RB,1.83,69.47,Defensa y Justicia,4,6,2,1
 Maxi Guillen,Uruguay,1992,RB,1.71,70.46,Defensa y Justicia,48,169,124,25
-Stiven Caballero,Colombia,1989,RB,1.72,66.25,Defensa y Justicia,47200,190,47
+Stiven Caballero,Colombia,1989,RB,1.72,66.25,Defensa y Justicia,47,200,190,47
 Teodoro Cordova,Colombia,1996,CB,1.95,77.12,Defensa y Justicia,31,6,152,20
 Omar Castellon,Argentina,1989,CB,1.93,68.75,Defensa y Justicia,0,0,0,0
 Franco Domiguez,Uruguay,2002,CB,1.97,74.49,Defensa y Justicia,7,25,19,5
@@ -749,16 +750,16 @@ Fabián Mayorga,Uruguay,1991,CM,1.83,79.74,Defensa y Justicia,58,46,170,24
 Christian Armani,Argentina,1991,CM,1.82,73.05,Defensa y Justicia,52,62,184,36
 Rubén Montelongo,Argentina,2005,CM,1.9,79.83,Defensa y Justicia,52,139,254,50
 Diego Fabian,Colombia,1999,RB,1.52,77.75,Estudiantes (LP),59,277,18,41
-Yamir Lara,Colombia,1995,RB,1.84,77.78,Estudiantes (LP),2,01,0
+Yamir Lara,Colombia,1995,RB,1.84,77.78,Estudiantes (LP),2,0,1,0
 Enrique Ocampo,Colombia,2000,RB,1.92,76.53,Estudiantes (LP),15,5,4,0
 Iván Rendon,Argentina,1989,CB,1.96,71.81,Estudiantes (LP),42,7,71,1
 Lautaro Chairez,Argentina,1996,CB,1.93,77.27,Estudiantes (LP),53,86,94,25
 Alberto Mendez,Argentina,2002,CB,1.95,68.27,Estudiantes (LP),37,120,92,31
 Francisco Perdomo,Argentina,1992,LB,1.55,70.19,Estudiantes (LP),47,31,204,37
 Estefano Borrego,Argentina,1994,LB,1.85,71.2,Estudiantes (LP),7,20,32,1
-Joan Abundez,Argentina,2006,LB,1.75,79.95,Estudiantes (LP),7,118,1
+Joan Abundez,Argentina,2006,LB,1.75,79.95,Estudiantes (LP),7,1,18,1
 Estefano Silva,Uruguay,1993,DM,1.76,69.74,Estudiantes (LP),44,72,116,4
-Eugenio Rodiquez,Colombia,1995,DM,1.8,73.6,Estudiantes (LP),54,224,3636
+Eugenio Rodiquez,Colombia,1995,DM,1.8,73.6,Estudiantes (LP),54,224,36,36
 Nehuén Diazgonzalez,Argentina,2004,DM,1.69,81.46,Estudiantes (LP),10,10,45,6
 Rocco Valtierrez,Argentina,1996,CM,1.77,65.27,Estudiantes (LP),18,68,50,10
 Agustin Rodriguezperez,Colombia,2000,CM,1.71,71.88,Estudiantes (LP),32,33,19,30
@@ -773,7 +774,7 @@ Guillermo Galvan,Colombia,1997,LB,1.73,72.41,Gimnasia y Esgrima (LP),60,137,32,5
 Andrés Rodriduez,Uruguay,1994,LB,1.7,71.76,Gimnasia y Esgrima (LP),3,0,10,2
 Enzo Landa,Colombia,2001,LB,1.55,72.8,Gimnasia y Esgrima (LP),28,15,109,2
 Alejandro Ranirez,Colombia,2003,DM,1.85,82.43,Gimnasia y Esgrima (LP),53,147,12,32
-Angel Gozalez,Uruguay,2001,DM,1.67,86.06,Gimnasia y Esgrima (LP),32,15,3
+Angel Gozalez,Uruguay,2001,DM,1.67,86.06,Gimnasia y Esgrima (LP),3,2,15,3
 Joaquin Casanova,Colombia,2002,DM,1.84,81.35,Gimnasia y Esgrima (LP),57,24,263,47
 Jorge Valdivia,Uruguay,1995,CM,1.75,74.93,Gimnasia y Esgrima (LP),14,37,55,3
 Diego Hermez,Colombia,1993,CM,1.85,78.6,Gimnasia y Esgrima (LP),32,56,102,12
@@ -792,9 +793,9 @@ Enzo Moncada,Uruguay,1991,DM,1.7,74.48,Godoy Cruz,47,143,101,0
 Piero Foster,Colombia,1999,DM,1.81,67.61,Godoy Cruz,40,154,127,31
 Angel Espinal,Colombia,1993,CM,1.72,82.49,Godoy Cruz,46,64,58,19
 Héctor Barela,Argentina,2000,CM,1.96,84.75,Godoy Cruz,1,4,3,0
-Juan Mainez,Uruguay,2005,CM,1.72,85.43,Godoy Cruz,39,13139,13
-Alfonso Enriquez,Uruguay,2004,RB,1.8,70.3,Huracán,25117,94,25
-Enrique Nanez,Uruguay,1995,RB,1.78,62.7,Huracán,512,55
+Juan Mainez,Uruguay,2005,CM,1.72,85.43,Godoy Cruz,39,13,139,13
+Alfonso Enriquez,Uruguay,2004,RB,1.8,70.3,Huracán,25,117,94,25
+Enrique Nanez,Uruguay,1995,RB,1.78,62.7,Huracán,5,12,5,5
 Esteban Jaramillo,Colombia,1993,RB,1.72,78.5,Huracán,11,19,23,0
 Santiago Corralez,Colombia,1996,CB,1.9,76.24,Huracán,32,7,39,6
 Paolo Medina,Colombia,2005,CB,1.94,72.65,Huracán,18,38,25,3
@@ -822,15 +823,15 @@ Hernán Almarez,Uruguay,1993,DM,1.57,68.43,Independiente,48,176,0,11
 Hernán Olmos,Colombia,1997,DM,1.84,72.17,Independiente,5,10,25,4
 Guillermo Salazar,Uruguay,1996,CM,1.68,85.85,Independiente,49,25,135,3
 Stiven Estevez,Argentina,1998,CM,1.89,81.85,Independiente,18,14,68,16
-Miguel Menedez,Uruguay,1994,CM,1.66,72.94,Independiente,13,33,44
+Miguel Menedez,Uruguay,1994,CM,1.66,72.94,Independiente,13,33,4,4
 Alberto Mireles,Uruguay,2004,RB,1.75,74.35,Instituto,33,76,74,26
 Tomás Miller,Colombia,1995,RB,1.74,78.96,Instituto,29,117,50,25
-Guillermo Garnica,Colombia,1996,RB,1.85,78.11,Instituto,2132,55,21
+Guillermo Garnica,Colombia,1996,RB,1.85,78.11,Instituto,21,32,55,21
 Angel Clark,Argentina,2001,CB,1.92,79.05,Instituto,20,79,38,0
 Alfonso Gomezgonzalez,Colombia,1989,CB,1.95,69.03,Instituto,35,24,156,25
 Maxi Mercedez,Argentina,1992,CB,1.93,80.09,Instituto,59,232,48,3
 Leandro Navarro,Colombia,2001,LB,1.92,76.49,Instituto,13,0,30,4
-Didiér Rosales,Uruguay,1994,LB,1.55,68.36,Instituto,29,68,2626
+Didiér Rosales,Uruguay,1994,LB,1.55,68.36,Instituto,29,68,26,26
 Héctor Bernardez,Uruguay,1994,LB,1.61,78.91,Instituto,9,45,37,6
 Andrés Sandez,Uruguay,2001,DM,1.64,71.45,Instituto,56,196,273,18
 Enrique Avilez,Argentina,1989,DM,1.57,72.44,Instituto,14,5,19,1
@@ -843,7 +844,7 @@ Aldo Perales,Argentina,2000,RB,1.9,70.58,Lanús,25,112,81,23
 Nicolás Aguilar,Uruguay,1995,RB,1.77,82.74,Lanús,3,14,8,1
 Rafael Riveralopez,Colombia,1994,CB,1.96,70.8,Lanús,56,152,65,48
 Diego Belmontez,Uruguay,1996,CB,1.99,79.48,Lanús,4,6,20,2
-Emiliano Romirez,Uruguay,1997,CB,1.98,74.0,Lanús,58180,195,58
+Emiliano Romirez,Uruguay,1997,CB,1.98,74.0,Lanús,58,180,195,58
 Frederico Osuna,Colombia,1993,LB,1.76,82.2,Lanús,23,0,49,19
 Joan Valdiviez,Argentina,2004,LB,1.93,68.62,Lanús,34,120,34,2
 Enrique Oliver,Argentina,1989,LB,1.78,80.37,Lanús,59,176,8,49
@@ -874,7 +875,7 @@ Angel Nelson,Uruguay,1989,RB,1.63,72.2,Platense,22,38,108,0
 Rubén Baldez,Argentina,2002,CB,1.97,72.96,Platense,52,181,259,22
 Piero Escobedo,Uruguay,1999,CB,1.97,74.03,Platense,36,78,27,35
 Javier Quiroga,Uruguay,1998,CB,1.92,81.31,Platense,41,85,12,39
-Carmelo Parker,Argentina,1991,LB,1.78,72.04,Platense,97,12,9
+Carmelo Parker,Argentina,1991,LB,1.78,72.04,Platense,9,7,12,9
 Paolo Diazperez,Uruguay,1991,LB,1.77,68.86,Platense,18,56,47,6
 Lucas Quilez,Argentina,2004,LB,1.8,79.44,Platense,20,75,57,15
 Rubén Trevino,Argentina,2006,DM,1.79,82.22,Platense,14,46,25,0
@@ -932,9 +933,9 @@ Rubén Cedillo,Argentina,2006,RB,1.74,84.75,San Lorenzo,45,58,89,14
 Miguel Florez,Colombia,1997,RB,1.56,85.44,San Lorenzo,36,165,109,19
 Benicio Riojas,Colombia,2003,RB,1.7,79.66,San Lorenzo,41,26,187,32
 Rodrigo Galvez,Colombia,1997,CB,1.99,76.25,San Lorenzo,22,2,43,15
-Hernán Echavez,Argentina,2002,CB,1.97,75.5,San Lorenzo,53204,263,53
+Hernán Echavez,Argentina,2002,CB,1.97,75.5,San Lorenzo,53,204,263,53
 Enzo Morgan,Argentina,1990,CB,1.95,86.1,San Lorenzo,54,144,53,34
-Guillermo Rodriquez,Colombia,1992,LB,1.61,81.15,San Lorenzo,41164,111,41
+Guillermo Rodriquez,Colombia,1992,LB,1.61,81.15,San Lorenzo,41,164,111,41
 Carmelo Seanez,Colombia,1994,LB,1.6,70.14,San Lorenzo,55,60,49,43
 Emiliano Manriguez,Uruguay,2004,LB,1.79,88.55,San Lorenzo,55,26,5,14
 Brayan Barba,Argentina,1991,DM,1.86,74.64,San Lorenzo,41,171,184,25
@@ -942,7 +943,7 @@ Jarrinson Cabrera,Argentina,2004,DM,1.69,71.46,San Lorenzo,30,114,26,10
 Agustin Palomino,Colombia,2000,DM,1.75,72.23,San Lorenzo,49,112,184,26
 Javier Rendon,Argentina,2001,CM,1.56,71.75,San Lorenzo,39,140,1,17
 Angel Sanabria,Colombia,1998,CM,1.73,74.65,San Lorenzo,31,109,81,19
-Maxi Samaniego,Uruguay,2006,CM,1.61,73.41,San Lorenzo,102,2,10
+Maxi Samaniego,Uruguay,2006,CM,1.61,73.41,San Lorenzo,10,2,2,10
 Lautaro Vallejo,Colombia,1999,RB,1.92,81.47,Sarmiento (J),25,33,125,19
 Patricio Lopezmartinez,Argentina,2004,RB,1.74,68.95,Sarmiento (J),29,31,99,3
 Stiven Lopez,Colombia,1999,RB,1.67,70.98,Sarmiento (J),49,85,133,23
@@ -967,7 +968,7 @@ Frederico Cortez,Argentina,1997,CB,1.96,73.4,Talleres (C),7,2,30,3
 Rubén Gonzalez,Argentina,1995,LB,1.61,70.04,Talleres (C),18,66,32,6
 Christian Barcia,Colombia,2001,LB,1.75,67.83,Talleres (C),38,101,69,3
 Juan Resendez,Uruguay,1996,LB,1.75,73.41,Talleres (C),33,3,90,26
-Patricio Giampaolli,Argentina,2004,DM,1.69,80.19,Talleres (C),1151,22,11
+Patricio Giampaolli,Argentina,2004,DM,1.69,80.19,Talleres (C),11,51,22,11
 Joan Terriquez,Uruguay,2003,DM,1.83,67.86,Talleres (C),38,16,46,29
 Santiago Amaya,Colombia,1995,DM,1.56,63.0,Talleres (C),27,37,5,9
 Christian Badillo,Argentina,1996,CM,1.68,79.55,Talleres (C),27,7,23,21
@@ -989,14 +990,14 @@ Enzo Soriano,Colombia,2002,CM,1.75,81.21,Tigre,54,117,76,18
 Patricio Soriano,Argentina,2004,CM,1.6,83.34,Tigre,17,33,58,16
 Frederico Moran,Colombia,1989,CM,1.95,84.33,Tigre,28,6,139,4
 Teófilo Osorio,Colombia,1989,RB,1.76,76.07,Unión,20,64,84,18
-Héctor Lopezperez,Argentina,1996,RB,1.76,84.4,Unión,24,7,2
+Héctor Lopezperez,Argentina,1996,RB,1.76,84.4,Unión,2,4,7,2
 Javier Magdaleno,Argentina,1992,RB,1.61,72.93,Unión,39,122,194,8
 Estefano Ortizlopez,Colombia,1999,CB,1.92,80.02,Unión,46,34,94,23
 Brayan Vasconez,Argentina,2002,CB,1.93,76.3,Unión,26,79,24,4
 Nicolás Gutirez,Argentina,1995,CB,1.94,80.96,Unión,2,8,6,1
 Piero Galvan,Uruguay,2002,LB,1.72,76.66,Unión,51,35,206,3
-Estefano Crespo,Argentina,1993,LB,1.77,75.03,Unión,21,0,2
-Didiér Alegria,Uruguay,1999,LB,1.61,78.56,Unión,3040,31,30
+Estefano Crespo,Argentina,1993,LB,1.77,75.03,Unión,2,1,0,2
+Didiér Alegria,Uruguay,1999,LB,1.61,78.56,Unión,30,40,31,30
 Enrique Velasguez,Uruguay,1991,DM,1.79,73.69,Unión,52,186,218,22
 Santiago Berrelez,Colombia,1997,DM,1.75,76.56,Unión,1,3,5,0
 Nehuén Falquez,Colombia,2004,DM,1.78,74.71,Unión,19,12,7,2
