@@ -1,1 +1,205 @@
-name,nationality,birth year,position,height,weight,club name,matches,defenses,goals conceded,clean sheets
+
+Lito Laranjeira,Brazil,1999,GK,1.91,69.67,América Mineiro,8,22,8,2
+Luiz Manoel Lila,Brazil,2002,GK,1.98,70.54,América Mineiro,53,149,37,38
+Philipe Laranjeira,Brazil,2003,GK,1.95,71.95,América Mineiro,22,52,49,17
+Wendel Barreto,Brazil,2000,GK,1.94,76.94,Athletico Paranaense,5,12,7,2
+Carlos Laranjeira,Brazil,1997,GK,1.98,69.37,Athletico Paranaense,20,43,7,10
+Pedro Borges,Brazil,2002,GK,1.94,72.46,Athletico Paranaense,55,124,107,32
+Tião Fernandes,Brazil,1998,GK,1.91,77.17,Atlético Mineiro,17,50,48,14
+Tito Burca,Brazil,1989,GK,1.91,67.96,Atlético Mineiro,821,2,8
+Lucca Silvestre,Brazil,1996,GK,1.92,67.19,Atlético Mineiro,46,60,78,14
+Tião Assad,Brazil,2003,GK,1.92,76.61,Bahia,3,8,9,0
+Guilherme Cunha,Brazil,2003,GK,1.95,76.21,Bahia,48113,27,48
+Matheus Calegari,Brazil,1996,GK,1.94,73.86,Bahia,2,0,4,1
+Caique Couto,Brazil,1998,GK,1.91,87.36,Botafogo,42,86,26,35
+Marcel de Abreu,Brazil,1997,GK,1.93,87.5,Botafogo,44,56,92,2
+Igor Teles,Brazil,1999,GK,1.93,80.17,Botafogo,10,2,1
+Heitor Mosteiro,Brazil,2006,GK,1.97,72.31,Corinthians,49,3,77,46
+Wagner Santos,Brazil,1989,GK,1.96,79.88,Corinthians,43,43,110,3
+Kleber Magno,Brazil,1991,GK,1.97,81.26,Corinthians,5,10,14,0
+Juninho Falcao,Brazil,1998,GK,1.92,70.03,Coritiba,2,3,6,1
+Vanderlei Betti,Brazil,1992,GK,1.94,66.1,Coritiba,25,50,73,11
+Duco Costeira,Brazil,1990,GK,1.96,65.9,Coritiba,16,26,35,0
+Antonio Carvalho,Brazil,2001,GK,1.96,84.95,Cruzeiro,40,65,13,33
+William Natura,Brazil,1994,GK,1.93,78.65,Cruzeiro,28,33,55,13
+Andrey Barcelar,Brazil,2000,GK,1.95,76.43,Cruzeiro,36,30,104,23
+Estafan Pera,Brazil,2000,GK,1.99,74.95,Cuiabá,21,15,5,4
+Nataniel Militão,Brazil,1994,GK,1.95,73.47,Cuiabá,55,32,71,41
+Bruno Assad,Brazil,2005,GK,1.99,73.42,Cuiabá,3,23,2
+Sebastião Soares,Brazil,2006,GK,1.96,80.02,Flamengo,48,102,140,34
+Juca Lopes,Brazil,1997,GK,1.91,69.96,Flamengo,18,49,31,13
+Helio Militão,Brazil,1998,GK,1.96,78.97,Flamengo,24,63,67,21
+Duco Menezes,Brazil,2006,GK,1.96,78.7,Fluminense,28,44,27,1
+Helio Pereira,Brazil,2006,GK,1.97,68.17,Fluminense,60,84,161,15
+Benjamin da Cruz,Brazil,2006,GK,1.96,80.73,Fluminense,20,50,32,15
+Joao Miguel Viveiro,Brazil,2005,GK,1.95,73.15,Fortaleza,6,16,17,3
+André Alcantara,Brazil,2003,GK,1.96,83.21,Fortaleza,32,45,77,18
+Caio Kuster,Brazil,1992,GK,1.96,64.01,Fortaleza,47,23,118,28
+Maicon Militão,Brazil,2006,GK,1.94,71.42,Goiás,21,51,8,2
+Daniel da Cruz,Brazil,2004,GK,1.98,79.44,Goiás,21,9,40,18
+Filipe Lopes,Brazil,1994,GK,1.94,78.45,Goiás,20,43,45,15
+Matias Nazario,Brazil,2004,GK,1.97,81.77,Grêmio,19,26,31,6
+Vitão Silva,Brazil,1998,GK,1.93,77.84,Grêmio,44,117,48,33
+Duco Costa,Brazil,1998,GK,1.92,73.77,Grêmio,38,72,87,29
+Pedro Monteiro,Brazil,1994,GK,1.95,70.22,Internacional,57,14,76,29
+Catatau Braga,Brazil,2004,GK,1.97,75.41,Internacional,126,29,12
+Savarino Menezes,Brazil,2004,GK,1.93,84.54,Internacional,49,80,52,19
+Mario Teles,Brazil,1993,GK,1.96,69.69,Palmeiras,0000
+Lucas Pamonha,Brazil,1989,GK,1.93,75.72,Palmeiras,52,111,34,42
+Tuco Valão,Brazil,2002,GK,1.95,72.89,Palmeiras,24,35,47,19
+Carlos Aguiar,Brazil,2004,GK,1.94,68.13,Red Bull Bragantino,53,37,136,5
+Eduardo Teixeira,Brazil,1990,GK,1.92,70.77,Red Bull Bragantino,10,30,16,6
+Caue Moura,Brazil,2001,GK,1.98,68.87,Red Bull Bragantino,5,8,12,1
+Pericles Cazares,Brazil,1992,GK,1.96,69.18,Santos,21,55,5,6
+Leandrinho Melila,Brazil,2001,GK,1.94,70.01,Santos,10,28,8,3
+Leandro Cazares,Brazil,1997,GK,1.93,73.71,Santos,52,117,17,14
+Léo Bacci,Brazil,1993,GK,1.93,75.04,São Paulo,13,20,22,1
+Matheus Militão,Brazil,2006,GK,1.94,78.55,São Paulo,43,97,56,2
+Madson Martinelli,Brazil,1993,GK,1.94,79.34,São Paulo,43,91,81,29
+Wando Rios,Brazil,1995,GK,1.95,79.68,Vasco da Gama,10,12,12,2
+Fefito Casemiro,Brazil,2002,GK,1.95,68.9,Vasco da Gama,29,70,67,28
+Inacio Moura,Brazil,1994,GK,1.96,83.24,Vasco da Gama,34,33,16,5
+Evandro Ribeiro,Brazil,2002,GK,1.96,76.83,América Mineiro,15,20,2,6
+José Valerio,Brazil,1998,GK,1.98,82.11,América Mineiro,6,1,11,0
+Henrique Bartolo,Brazil,2006,GK,1.98,83.41,América Mineiro,41,45,21,38
+Pepeu Ribas,Brazil,1999,GK,1.93,87.04,Athletico Paranaense,41,71,3,9
+Antônio Teixeira,Brazil,1995,GK,1.95,80.52,Athletico Paranaense,3,4,6,1
+Diego Lopes,Brazil,1997,GK,1.95,83.56,Athletico Paranaense,55,42,142,47
+Nicolas Motta,Brazil,2002,GK,1.94,70.47,Atlético Mineiro,49,32,54,21
+Estafan Militão,Brazil,2004,GK,1.96,70.53,Atlético Mineiro,47,65,82,2
+José Correa,Brazil,1989,GK,1.92,83.57,Atlético Mineiro,55,151,6,12
+Guinho Teles,Brazil,1990,GK,1.95,77.84,Bahia,20,17,51,15
+Mariano Oliveira,Brazil,1994,GK,1.91,82.52,Bahia,28,0,72,26
+Savio Barcelo,Brazil,1990,GK,1.96,77.1,Bahia,19,108,10
+Juliano Faria,Brazil,2002,GK,1.93,80.85,Botafogo,21,925,9
+Diego Diniz,Brazil,2006,GK,1.93,76.58,Botafogo,14,25,37,11
+Giuliano Arouca,Brazil,1994,GK,1.97,69.75,Botafogo,45,134,43,16
+João Pedro Carmona,Brazil,1993,GK,1.96,83.92,Corinthians,14,35,1010
+Igor Teixeira,Brazil,1994,GK,1.91,73.62,Corinthians,30,5,66,10
+Ronaldo Coutinho,Brazil,1997,GK,1.95,73.92,Corinthians,43,47,16,38
+Savio Bartolo,Brazil,1998,GK,1.96,68.98,Coritiba,23,56,57,10
+Rogerinho Natura,Brazil,1996,GK,1.93,84.12,Coritiba,36,40,87,26
+Daniel D'avila,Brazil,2003,GK,1.98,76.55,Coritiba,30,48,77,15
+Carlos Alberto Burca,Brazil,1990,GK,1.94,74.67,Cruzeiro,60,0,164,6
+Lucca Falcao,Brazil,1989,GK,1.94,75.66,Cruzeiro,57,129,118,17
+Adalto Vasques,Brazil,2002,GK,1.96,73.64,Cruzeiro,54,42,82,13
+Maicon Melo,Brazil,2001,GK,1.92,79.95,Cuiabá,12,13,31,9
+Iguinho Mica,Brazil,1989,GK,1.92,79.79,Cuiabá,55,139,40,50
+Carlos Alberto Dolabela,Brazil,1999,GK,1.94,65.53,Cuiabá,48,25,118,32
+Leonardo Azevedo,Brazil,2005,GK,1.96,74.07,Flamengo,46,81,10,44
+Sandro Nogueira,Brazil,2004,GK,1.92,78.68,Flamengo,44,126,112,15
+Aracel Casemiro,Brazil,2006,GK,1.96,68.84,Flamengo,26,5,5,18
+Savarino Laranja,Brazil,1992,GK,1.96,83.79,Fluminense,37,63,34,31
+Icaro Falcao,Brazil,1993,GK,1.91,81.32,Fluminense,563,88,56
+Miguel Lysandro,Brazil,1989,GK,1.96,77.9,Fluminense,48,39,128,7
+Vando Calegari,Brazil,2000,GK,1.95,71.43,Fortaleza,49,58,32,45
+Amaral Poeta,Brazil,1989,GK,1.91,71.25,Fortaleza,40,0,4
+João Lucas Guerri,Brazil,1993,GK,1.93,73.39,Fortaleza,41,88,4,11
+Juares Beltrão,Brazil,1992,GK,1.93,76.63,Goiás,42,102,3,23
+Nataniel de Abreu,Brazil,1992,GK,1.92,72.77,Goiás,17,44,8,12
+Valdir Arantes,Brazil,1994,GK,1.94,71.09,Goiás,50,85,107,9
+Marlon Roussef,Brazil,2001,GK,1.96,72.81,Grêmio,48,70,53,39
+Ademar Veloso,Brazil,1993,GK,1.98,87.61,Grêmio,56,104,149,41
+Rogerinho Nascimento,Brazil,1992,GK,1.98,63.53,Grêmio,40,33,42,10
+Ronaldinho da Silva,Brazil,1997,GK,1.91,74.84,Internacional,54,109,0,33
+Lucian Limeira,Brazil,1997,GK,1.96,74.58,Internacional,47,17,62,39
+Savio Souza,Brazil,1991,GK,1.97,75.05,Internacional,43,42,100,13
+Edvan Bartolo,Brazil,1996,GK,1.93,68.28,Palmeiras,57,63,60,16
+Alex Brito,Brazil,1992,GK,1.96,70.79,Palmeiras,12,35,23,2
+Amaral Alvez,Brazil,2006,GK,1.97,68.92,Palmeiras,30,79,27,18
+Thiego Rainha,Brazil,2006,GK,1.95,71.72,Red Bull Bragantino,9,6,12,7
+Arlindo da Silva,Brazil,1997,GK,1.94,80.77,Red Bull Bragantino,52,114,129,0
+Anderson Valão,Brazil,1991,GK,1.92,78.6,Red Bull Bragantino,29,70,45,28
+Daniel Lira,Brazil,1996,GK,1.96,79.53,Santos,42,89,71,12
+Yuri de Abreu,Brazil,2004,GK,1.92,69.38,Santos,40,48,28,19
+Wanderson Arantes,Brazil,1989,GK,1.95,77.42,Santos,40,104,43,16
+Almir Aguiar,Brazil,2004,GK,1.98,75.55,São Paulo,22,39,57,16
+Andrey Ribeiro,Brazil,2004,GK,1.99,76.97,São Paulo,0000
+Rodriguinho Laranja,Brazil,2005,GK,1.95,74.8,São Paulo,13,28,31,6
+Diogo Barata,Brazil,2005,GK,1.94,79.01,Vasco da Gama,32,51,49,28
+Luan Beltrão,Brazil,1995,GK,1.93,85.91,Vasco da Gama,60,24,147,2
+Mario Burca,Brazil,2005,GK,1.96,81.32,Vasco da Gama,48,41,111,21
+Eugenio Paredes,Argentina,1995,GK,1.92,79.18,Argentinos Juniors,36,74,74,19
+Estefano Corrales,Argentina,1989,GK,1.96,73.44,Argentinos Juniors,11,23,28,1
+Alfonso Benavidez,Colombia,2005,GK,1.99,75.78,Argentinos Juniors,50,99,140,40
+Juan Dominquez,Uruguay,1999,GK,1.91,78.49,Arsenal,31,1,3
+Alfonso Velasquez,Argentina,1997,GK,1.96,71.4,Arsenal,40,8,25,29
+Eugenio Canez,Argentina,1989,GK,1.92,82.75,Arsenal,27,7,28,5
+Joan Arenas,Uruguay,1991,GK,1.91,68.86,Atlético Tucumán,33,4,65,1
+Francisco Pelaez,Colombia,1994,GK,1.94,67.82,Atlético Tucumán,39,98,16,23
+Juan Tarango,Uruguay,1999,GK,1.98,85.17,Atlético Tucumán,1529,29,15
+Teodoro Sonmez,Uruguay,1992,GK,1.98,73.05,Banfield,19,51,32,12
+Teodoro Miguez,Uruguay,2001,GK,1.95,77.53,Banfield,19,49,22,17
+Maxi Pichardo,Argentina,1997,GK,1.96,68.67,Banfield,3,7,7,0
+Jorge Magana,Colombia,1990,GK,1.98,75.22,Barracas Central,46,138,13,32
+Guido Pizarro,Argentina,1991,GK,1.9,75.86,Barracas Central,22,62,61,3
+Patricio Bojorquez,Uruguay,2006,GK,1.93,65.98,Barracas Central,43,31,64,12
+Jarrinson Martez,Colombia,2006,GK,1.92,75.56,Belgrano,10,0,1
+Paolo Reynoso,Argentina,2005,GK,1.96,71.19,Belgrano,28,56,63,5
+Yamir Carreno,Colombia,1989,GK,1.94,67.75,Belgrano,9,3,21,2
+Aldo Avalos,Colombia,2000,GK,1.95,80.44,Boca Juniors,8,1,22,5
+Aldo Deltoro,Argentina,1998,GK,1.97,69.54,Boca Juniors,26,0,49,10
+Juan Favela,Argentina,1992,GK,1.94,65.83,Boca Juniors,57,93,98,48
+Sebastián Agundez,Argentina,2004,GK,1.94,87.62,Central Córdoba (SdE),10,23,27,8
+Omar Martin,Argentina,1990,GK,1.95,79.82,Central Córdoba (SdE),25,59,46,10
+Frederico Reyez,Colombia,2001,GK,1.97,76.31,Central Córdoba (SdE),31,27,46,10
+Fabián Ayala,Argentina,1998,GK,1.95,79.35,Colón,16,32,29,2
+Tomás Olivo,Uruguay,2005,GK,1.97,75.54,Colón,39,31,39,34
+Alberto Luis,Argentina,1995,GK,1.94,66.7,Colón,47,44,7,13
+Paolo Parada,Argentina,1990,GK,1.94,71.81,Defensa y Justicia,35,64,26,17
+Guido Ferreira,Colombia,1999,GK,1.93,83.96,Defensa y Justicia,47,90,18,29
+Héctor Pinon,Colombia,1990,GK,1.93,66.41,Defensa y Justicia,60,131,84,12
+Maxi Saravia,Argentina,1995,GK,1.97,78.68,Estudiantes (LP),60,39,61,44
+Sebastián Vanegas,Uruguay,1990,GK,1.95,65.44,Estudiantes (LP),27,74,31,2
+Esteban Iniguez,Uruguay,2002,GK,1.98,67.77,Estudiantes (LP),35,83,21,14
+Santiago Lugo,Uruguay,1991,GK,1.96,75.82,Gimnasia y Esgrima (LP),53,73,146,4
+Teodoro Deprez,Uruguay,2001,GK,1.97,83.26,Gimnasia y Esgrima (LP),56,25,65,26
+Benicio Galarza,Argentina,2006,GK,1.95,65.56,Gimnasia y Esgrima (LP),43,5,47,28
+Franco Arredondo,Colombia,1994,GK,1.94,64.27,Godoy Cruz,27,48,24,0
+Alberto Jimez,Colombia,2001,GK,1.97,74.63,Godoy Cruz,41,37,7,9
+Paolo Venegas,Argentina,1998,GK,1.96,78.65,Godoy Cruz,29,9,48,12
+Estefano Sauceda,Argentina,2004,GK,1.97,65.75,Huracán,8,16,23,3
+Frederico Abundez,Uruguay,1996,GK,1.97,68.85,Huracán,1,2,3,0
+Diego Aragon,Argentina,2000,GK,1.92,64.67,Huracán,57,147,57,4
+Hermán Betancourt,Colombia,2003,GK,1.97,74.12,Independiente,38,25,89,24
+Christian Robles,Uruguay,1994,GK,1.95,75.24,Independiente,12,32,15,0
+Héctor Almaraz,Colombia,2001,GK,1.95,68.65,Independiente,20,18,11,5
+Lucas Phillips,Colombia,1991,GK,1.96,75.48,Instituto,0000
+Angel Desprez,Colombia,1997,GK,1.92,67.0,Instituto,53,1,129,37
+Juan Monarrez,Argentina,1993,GK,1.94,84.97,Instituto,47,93,51,35
+Joaquin Cruzmartinez,Uruguay,1997,GK,1.96,75.82,Lanús,0000
+Angelo Saavedra,Colombia,2003,GK,1.95,74.33,Lanús,42,43,69,22
+Yamir Melendez,Colombia,1989,GK,1.96,75.76,Lanús,22,42,1,9
+Emiliano Medina,Colombia,2001,GK,1.95,66.63,Newell's Old Boys,38,55,21,31
+Eugenio Butler,Argentina,2000,GK,1.95,79.55,Newell's Old Boys,8,111,1
+Stiven Zayas,Argentina,1999,GK,1.94,74.71,Newell's Old Boys,10,3,1
+Hermán Mainez,Argentina,2004,GK,1.94,76.02,Platense,19,32,43,1
+Juan Harris,Argentina,1990,GK,1.97,73.58,Platense,27,53,77,21
+Leandro Hernandez,Argentina,2004,GK,1.99,63.82,Platense,26,69,65,17
+Paolo Gongalez,Argentina,2000,GK,1.95,75.93,Racing,38,41,103,3
+Brayan Reyesrodriguez,Colombia,2004,GK,1.98,78.82,Racing,50,55,78,9
+Rubén Valdiviez,Argentina,2006,GK,1.94,75.79,Racing,6,8,10,2
+Javier Cañete,Uruguay,1996,GK,1.98,68.14,River Plate,0000
+Teodoro Berez,Argentina,1998,GK,1.94,78.61,River Plate,34,4,56,7
+Giovani Rudriguez,Argentina,2001,GK,1.93,62.32,River Plate,36,101,90,18
+Exequiel Bermudez,Argentina,2004,GK,1.95,70.23,Rosario Central,29,3,72,15
+Jarrinson Person,Colombia,2004,GK,1.96,76.06,Rosario Central,43,22,86,15
+Angelo Roberts,Colombia,2006,GK,1.94,78.75,Rosario Central,34,27,59,13
+Guido Vaez,Colombia,1992,GK,1.99,71.89,San Lorenzo,47,26,54,2
+Nehuén Ramarez,Uruguay,1992,GK,1.97,68.64,San Lorenzo,18,19,33,17
+Jorge Diazgonzalez,Colombia,1997,GK,1.96,76.33,San Lorenzo,38,46,51,10
+Lautaro Villemez,Argentina,1989,GK,1.96,78.29,Sarmiento (J),47,2,25,23
+Brayan Musquez,Argentina,2002,GK,1.96,71.11,Sarmiento (J),5,13,6,3
+Brayan Almazan,Uruguay,1997,GK,1.97,75.26,Sarmiento (J),31,24,29,12
+Stiven Galvan,Colombia,2006,GK,1.97,65.24,Talleres (C),3,3,9,1
+Yamir Duez,Colombia,1993,GK,1.93,74.71,Talleres (C),30,84,4,23
+Juan Hurtado,Uruguay,1995,GK,1.94,79.99,Talleres (C),1230,1212
+Paolo Esqueda,Colombia,1997,GK,1.94,73.92,Tigre,30,3,89,0
+Eugenio Mojica,Colombia,1990,GK,1.94,71.14,Tigre,12,22,26,0
+Frederico Vega,Uruguay,2000,GK,1.97,81.12,Tigre,41,115,64,32
+Juan Peralez,Uruguay,2006,GK,1.93,74.95,Unión,3,7,22
+Jorge Murillo,Uruguay,1992,GK,1.96,79.78,Unión,11,14,18,5
+Rubén Barragan,Argentina,2001,GK,1.96,62.72,Unión,43,58,34,35
+José Hartinez,Argentina,1993,GK,1.98,87.89,Vélez Sarsfield,13,11,25,4
+Aldo Giampaolli,Colombia,2006,GK,1.98,71.96,Vélez Sarsfield,13,11,12,4
+Sebastián Arellano,Colombia,1993,GK,1.95,81.91,Vélez Sarsfield,20,23,4,13
