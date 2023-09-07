@@ -78,7 +78,7 @@ cursor.execute(select_at)
 attackers = cursor.fetchall()
 
 with open('goalkeepers.csv', 'w') as f:
-    f.write('\n')
+    f.write('Name,Nationality,Birth Year,Position,Height,Weight,Club,Matches,Defenses,Goals Conceded,Clean Sheets\n')
     for keepers in goalkeepers:
         for item in enumerate(keepers):
             f.write(str(item[-1]))
@@ -86,7 +86,7 @@ with open('goalkeepers.csv', 'w') as f:
         f.write('\n')
 
 with open('defensors.csv', 'w') as f:
-    f.write('\n')
+    f.write('Name,Nationality,Birth Year,Position,Height,Weight,Club,Matches,Tackles,Clearances,Clean Sheets\n')
     for defensor in defensors:
         for item in enumerate(defensor):
             f.write(str(item[-1]))
@@ -94,7 +94,7 @@ with open('defensors.csv', 'w') as f:
         f.write('\n')
 
 with open('attackers.csv', 'w') as f:
-    f.write('\n')
+    f.write('Name,Nationality,Birth Year,Position,Height,Weight,Club,Matches,Goals,Assists\n')
     for attacker in attackers:
         for item in enumerate(attacker):
             f.write(str(item[-1]))
